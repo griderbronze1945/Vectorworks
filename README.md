@@ -210,4 +210,4 @@ Vectorworks 2014 Viewer is available as a complete free version, with all featur
 **Download Vectorworks now and elevate your design projects to the next level!**
 
 ---
-**Last updated:** 2026-11-10 16:48:18 UTC
+**Last updated:** 2026-11-10 22:04:00 UTC
